@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <meta charSet="utf-8" />
-        <link href="/static/favicons/favicon-v1.ico" rel="shortcut icon" />
+        <link href="/favicons/favicon.png" rel="shortcut icon" />
         <link href="/static/favicons/site.webmanifest" rel="manifest" />
         <link href="/static/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180" />
         <link
@@ -20,6 +20,7 @@ export default function Document() {
           sizes="16x16"
           type="image/png"
         />
+        <title>Interview-SASLog</title>
       </Head>
 
       <body>
